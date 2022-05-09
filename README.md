@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Peter Rehmann</h1>
 
-- 📫 How to reach me **kontakt@rehmann-peter.de**
+
 
 
 <p align="left">
